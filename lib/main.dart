@@ -10,6 +10,7 @@ class MyApp extends StatelessWidget {
         home: Scaffold(
       appBar: AppBar(
         title: Text('List'),
+        title: Text('List'),
       ),
       body:Card(child:Column(children: <Widget>[
         
